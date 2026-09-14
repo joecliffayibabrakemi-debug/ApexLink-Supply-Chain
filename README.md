@@ -1,6 +1,7 @@
 # ApexLink Supply Chain Analysis
 
 An analysis of supplier performance, delivery time, sales, and data quality across ApexLink's supply chain.
+
 A self-directed supply chain analysis using a fictional dataset to find business insights and make recommendations.
 
 
@@ -18,13 +19,13 @@ This analysis looks at three main questions:
 
 ## Executive Summary
 
-**Revenue:** ApexLink generated ₦62.95bn from 500 orders. The top three products, Laptop, Soap, and Cement, generated 76.8% of total revenue. Dangote generated 33.0% of total revenue. South-South generated the highest regional revenue at ₦48.2bn.
+* **Revenue:** ApexLink generated ₦62.95bn from 500 orders. The top three products, Laptop, Soap, and Cement, generated 76.8% of total revenue. Dangote generated 33.0% of total revenue. South-South generated the highest regional revenue at ₦48.2bn.
 
-**Delivery:** 45.6% of orders were delivered late. Average delivery time was 33 days. Port Harcourt had the highest average delivery time. Dangote had the highest number of late deliveries, with 72.
+* **Delivery:** 45.6% of orders were delivered late. Average delivery time was 33 days. Port Harcourt had the highest average delivery time. Dangote had the highest number of late deliveries, with 72.
 
-**Order status:** 294 orders were delivered, 71 were cancelled, 70 were returned, and 65 were pending. Cancelled and returned orders made up 28.2% of all orders.
+* **Order status:** 294 orders were delivered, 71 were cancelled, 70 were returned, and 65 were pending. Cancelled and returned orders made up 28.2% of all orders.
 
-**Data quality:** About ₦11bn of revenue, or 17.5%, has no supplier name. The data also contains an Unknown warehouse category.
+* **Data quality:** About ₦11bn of revenue, or 17.5%, has no supplier name. The data also contains an Unknown warehouse category.
 ## Tools
 
 **Excel:** Data cleaning, dashboard visualization and initial data checks.
