@@ -1,0 +1,501 @@
+OrderID,OrderDate,Supplier,Product,Quantity, Unit_Price ,Delivery_Days,Warehouse,Customer_Region,Order_Status, Total Sales ,Delivery_Status
+APX1273,4/9/2025,Nestle,Laptop,30,4500,2,Unknown,South-West,Pending,135000,Fast
+APX1357,3/26/2025,Unilever,Laptop,2500,47538,95,Lagos,South-South,Delivered,118845000,Late
+APX1176,3/11/2025,Pz,Laptop,47,800,3,Lagos,South-West,Delivered,37600,Fast
+APX1213,6/11/2025,Dangote,Cement,30,850000,3,Abuja,South-South,Delivered,25500000,Fast
+APX1019,4/25/2025,Pz,Laptop,12,800,3,Unknown,South-South,Delivered,9600,Fast
+APX1412,5/21/2025,Dangote,Laptop,30,4500,3,Abuja,South-West,Delivered,135000,Fast
+APX1194,10/28/2025,Dangote,Noodles,30,850000,3,Port Harcourt,South-South,Returned,25500000,Fast
+APX1050,12/11/2025,Pz,Laptop,30,4500,3,Unknown,South-South,Delivered,135000,Fast
+APX1277,3/18/2025,Pz,Cement,30,30900,95,Unknown,North-East,Delivered,927000,Late
+APX1336,4/2/2025,Bua,Laptop,136,6469,2,Port Harcourt,South-South,Delivered,879784,Fast
+APX1049,10/2/2025,Pz,Noodles,30,850000,95,Port Harcourt,South-South,Delivered,25500000,Late
+APX1273,11/6/2025,Nestle,Laptop,51,4500,3,Abuja,North-East,Delivered,229500,Fast
+APX1309,10/18/2025,Unilever,Laptop,26,800,3,Kano,North-East,Delivered,20800,Fast
+APX1002,8/30/2025,Unilever,Laptop,30,16574,3,Lagos,South-South,Delivered,497220,Fast
+APX1271,12/5/2025,Bua,Cement,30,6024,3,Port Harcourt,South-South,Pending,180720,Fast
+APX1207,11/23/2025,Bua,Noodles,2500,800,12,Abuja,South-West,Delivered,2000000,Late
+APX1011,5/30/2025,Bua,Cement,12,4500,95,Port Harcourt,South-South,Delivered,54000,Late
+APX1088,1/6/2025,N/A,Laptop,2500,850000,95,Lagos,South-South,Pending,2125000000,Late
+APX1413,12/24/2025,Bua,Soap,2500,3766,3,Lagos,South-South,Delivered,9415000,Fast
+APX1294,10/18/2025,Pz,Noodles,12,850000,95,Port Harcourt,North-East,Delivered,10200000,Late
+APX1279,7/17/2025,Bua,Laptop,12,4500,5,Lagos,South-South,Pending,54000,Normal
+APX1377,3/1/2025,Dangote,Laptop,131,850000,3,Lagos,South-South,Delivered,111350000,Fast
+APX1246,12/1/2025,Bua,Sugar,29,850000,11,Port Harcourt,South-South,Cancelled,24650000,Late
+APX1146,11/1/2025,Dangote,Soap,30,20142,14,Port Harcourt,South-South,Delivered,604260,Late
+APX1322,2/10/2025,Nestle,Laptop,50,6500,95,Lagos,North-East,Delivered,325000,Late
+APX1393,5/26/2025,Nestle,Noodles,2500,27614,3,Unknown,South-South,Returned,69035000,Fast
+APX1046,7/1/2025,Dangote,Laptop,30,800,3,Abuja,South-South,Delivered,24000,Fast
+APX1235,6/15/2025,Nestle,Laptop,2500,6500,3,Port Harcourt,South-West,Pending,16250000,Fast
+APX1293,7/20/2025,Dangote,Laptop,2500,44500,3,Port Harcourt,South-South,Delivered,111250000,Fast
+APX1287,11/13/2025,Bua,Cement,197,4500,7,Unknown,North-East,Pending,886500,Normal
+APX1271,12/20/2025,Dangote,Cement,2500,800,95,Abuja,North-East,Cancelled,2000000,Late
+APX1300,2/17/2025,Unilever,Cement,30,4500,5,Unknown,South-South,Delivered,135000,Normal
+APX1224,10/29/2025,Bua,Rice,30,6500,95,Port Harcourt,South-South,Cancelled,195000,Late
+APX1340,11/17/2025,Bua,Sugar,68,850000,95,Unknown,South-South,Returned,57800000,Late
+APX1379,12/28/2025,Pz,Laptop,2500,6500,2,Port Harcourt,North-East,Returned,16250000,Fast
+APX1232,4/8/2025,Bua,Noodles,2500,800,95,Lagos,South-South,Delivered,2000000,Late
+APX1297,12/29/2025,Bua,Cement,12,33492,3,Lagos,South-South,Delivered,401904,Fast
+APX1366,7/19/2025,Nestle,Cement,2500,9359,95,Port Harcourt,South-South,Delivered,23397500,Late
+APX1170,9/7/2025,Dangote,Laptop,2500,800,95,Abuja,South-West,Cancelled,2000000,Late
+APX1393,2/11/2025,Dangote,Cement,2500,850000,3,Lagos,South-South,Cancelled,2125000000,Fast
+APX1024,12/17/2025,Pz,Laptop,30,6500,95,Lagos,South-South,Cancelled,195000,Late
+APX1392,4/30/2025,Unilever,Noodles,12,850000,9,Abuja,South-South,Returned,10200000,Late
+APX1023,10/2/2025,Dangote,Noodles,12,4500,95,Lagos,South-South,Cancelled,54000,Late
+APX1003,11/29/2025,Nestle,Sugar,12,6500,3,Abuja,South-South,Cancelled,78000,Fast
+APX1358,7/11/2025,Bua,Noodles,2500,30278,95,Port Harcourt,South-South,Delivered,75695000,Late
+APX1169,7/20/2025,Bua,Laptop,30,800,6,Lagos,South-South,Delivered,24000,Normal
+APX1050,11/18/2025,Unilever,Laptop,12,4942,3,Port Harcourt,South-South,Delivered,59304,Fast
+APX1417,2/13/2025,Unilever,Cement,30,4500,14,Port Harcourt,North-East,Delivered,135000,Late
+APX1352,6/10/2025,Bua,Laptop,2500,850000,95,Port Harcourt,South-South,Pending,2125000000,Late
+APX1223,5/7/2025,Unilever,Cement,2500,850000,13,Port Harcourt,South-South,Delivered,2125000000,Late
+APX1294,1/15/2025,N/A,Sugar,32,800,3,Abuja,South-South,Pending,25600,Fast
+APX1082,6/13/2025,Dangote,Sugar,2500,850000,4,Port Harcourt,South-South,Pending,2125000000,Normal
+APX1141,12/11/2025,Dangote,Soap,30,27093,3,Lagos,South-South,Delivered,812790,Fast
+APX1028,9/14/2025,Nestle,Rice,2500,800,3,Port Harcourt,South-West,Delivered,2000000,Fast
+APX1190,10/27/2025,Pz,Laptop,2500,6500,3,Unknown,North-East,Pending,16250000,Fast
+APX1261,12/27/2025,Pz,Cement,12,850000,95,Port Harcourt,South-South,Delivered,10200000,Late
+APX1294,8/3/2025,Bua,Soap,30,6500,3,Lagos,South-South,Delivered,195000,Fast
+APX1386,1/16/2025,Nestle,Cement,12,39428,3,Unknown,South-West,Delivered,473136,Fast
+APX1362,5/29/2025,Bua,Laptop,2500,6500,95,Kano,North-East,Cancelled,16250000,Late
+APX1423,12/12/2025,Bua,Laptop,12,6500,2,Kano,South-South,Returned,78000,Fast
+APX1188,12/15/2025,Bua,Noodles,30,15779,3,Port Harcourt,South-South,Delivered,473370,Fast
+APX1204,6/23/2025,N/A,Laptop,28,23317,14,Lagos,South-South,Delivered,652876,Late
+APX1105,6/2/2025,Dangote,Rice,12,4500,7,Unknown,North-East,Delivered,54000,Normal
+APX1254,7/20/2025,Nestle,Laptop,173,800,95,Lagos,South-West,Delivered,138400,Late
+APX1363,1/28/2025,Bua,Laptop,163,850000,3,Lagos,South-West,Delivered,138550000,Fast
+APX1210,9/29/2025,N/A,Laptop,30,850000,11,Lagos,North-East,Delivered,25500000,Late
+APX1265,6/15/2025,Nestle,Rice,12,11991,3,Lagos,South-South,Delivered,143892,Fast
+APX1251,5/10/2025,Bua,Cement,2500,6500,95,Kano,North-East,Pending,16250000,Late
+APX1247,4/2/2025,Nestle,Noodles,12,800,9,Abuja,South-South,Delivered,9600,Late
+APX1061,7/10/2025,Bua,Cement,25,4500,3,Port Harcourt,South-South,Delivered,112500,Fast
+APX1007,10/14/2025,N/A,Rice,26,4500,95,Lagos,South-South,Cancelled,117000,Late
+APX1145,1/15/2025,Dangote,Soap,30,33206,95,Abuja,South-South,Returned,996180,Late
+APX1114,2/27/2025,N/A,Sugar,2500,2289,3,Lagos,South-South,Delivered,5722500,Fast
+APX1218,7/29/2025,Dangote,Laptop,30,850000,3,Kano,South-West,Delivered,25500000,Fast
+APX1065,1/13/2025,Nestle,Laptop,12,850000,12,Port Harcourt,South-South,Delivered,10200000,Late
+APX1071,8/2/2025,Dangote,Cement,154,850000,13,Lagos,South-South,Returned,130900000,Late
+APX1232,8/31/2025,Bua,Laptop,30,4500,14,Port Harcourt,North-East,Delivered,135000,Late
+APX1264,3/30/2025,Unilever,Noodles,183,8670,3,Port Harcourt,South-West,Cancelled,1586610,Fast
+APX1203,10/13/2025,Dangote,Sugar,12,32861,12,Lagos,South-South,Returned,394332,Late
+APX1024,12/23/2025,Pz,Laptop,2500,8888,95,Abuja,South-South,Delivered,22220000,Late
+APX1031,7/6/2025,Pz,Noodles,12,800,3,Lagos,South-South,Cancelled,9600,Fast
+APX1311,11/21/2025,Unilever,Sugar,2500,6500,3,Lagos,South-South,Delivered,16250000,Fast
+APX1219,4/3/2025,Dangote,Noodles,146,4500,95,Port Harcourt,South-West,Pending,657000,Late
+APX1175,9/23/2025,Dangote,Laptop,2500,850000,11,Abuja,South-South,Delivered,2125000000,Late
+APX1391,5/17/2025,Bua,Soap,2500,800,3,Port Harcourt,South-South,Delivered,2000000,Fast
+APX1223,5/7/2025,Dangote,Sugar,12,800,3,Port Harcourt,South-West,Returned,9600,Fast
+APX1307,4/14/2025,Nestle,Cement,30,800,5,Port Harcourt,South-West,Delivered,24000,Normal
+APX1041,12/16/2025,N/A,Laptop,192,800,3,Lagos,South-South,Returned,153600,Fast
+APX1263,7/14/2025,Unilever,Laptop,30,850000,1,Port Harcourt,South-South,Returned,25500000,Fast
+APX1364,9/30/2025,Dangote,Laptop,2500,4054,10,Port Harcourt,South-South,Delivered,10135000,Late
+APX1309,9/2/2025,Unilever,Laptop,171,4500,9,Kano,South-South,Pending,769500,Late
+APX1375,9/19/2025,Pz,Laptop,30,4500,95,Lagos,South-South,Pending,135000,Late
+APX1281,5/18/2025,N/A,Noodles,2500,6500,95,Port Harcourt,South-South,Delivered,16250000,Late
+APX1112,9/26/2025,Dangote,Cement,2500,4500,8,Lagos,South-South,Returned,11250000,Late
+APX1084,10/2/2025,Dangote,Noodles,12,800,3,Lagos,South-South,Delivered,9600,Fast
+APX1308,8/23/2025,Dangote,Soap,2500,6500,95,Unknown,South-South,Delivered,16250000,Late
+APX1044,3/4/2025,Bua,Noodles,102,800,9,Port Harcourt,South-South,Delivered,81600,Late
+APX1314,1/20/2025,Bua,Soap,12,6500,2,Lagos,South-South,Pending,78000,Fast
+APX1082,3/5/2025,Nestle,Rice,30,850000,95,Abuja,South-West,Cancelled,25500000,Late
+APX1325,7/9/2025,Unilever,Cement,160,850000,3,Lagos,South-West,Delivered,136000000,Fast
+APX1059,2/22/2025,Dangote,Noodles,12,800,1,Lagos,South-South,Delivered,9600,Fast
+APX1081,4/12/2025,Dangote,Rice,2500,4500,95,Port Harcourt,South-West,Returned,11250000,Late
+APX1348,1/29/2025,Nestle,Laptop,198,42794,1,Port Harcourt,South-West,Delivered,8473212,Fast
+APX1140,6/21/2025,Pz,Soap,30,39357,7,Lagos,South-West,Cancelled,1180710,Normal
+APX1013,8/2/2025,Bua,Laptop,12,47281,95,Port Harcourt,North-East,Pending,567372,Late
+APX1418,8/3/2025,Dangote,Cement,12,850000,3,Port Harcourt,South-West,Delivered,10200000,Fast
+APX1028,3/13/2025,Dangote,Cement,30,850000,3,Lagos,South-West,Delivered,25500000,Fast
+APX1150,3/6/2025,Unilever,Rice,160,4500,3,Kano,North-East,Delivered,720000,Fast
+APX1102,5/23/2025,Unilever,Laptop,2500,40605,3,Lagos,South-South,Delivered,101512500,Fast
+APX1403,4/17/2025,Dangote,Laptop,161,21985,95,Abuja,South-South,Pending,3539585,Late
+APX1408,1/16/2025,Nestle,Rice,12,4500,3,Port Harcourt,South-South,Delivered,54000,Fast
+APX1084,2/23/2025,Dangote,Rice,12,39781,10,Lagos,South-South,Returned,477372,Late
+APX1382,2/3/2025,Nestle,Laptop,2500,850000,3,Abuja,South-South,Delivered,2125000000,Fast
+APX1168,9/16/2025,Bua,Sugar,30,6500,4,Lagos,South-South,Delivered,195000,Normal
+APX1207,1/15/2025,Nestle,Laptop,2500,4500,95,Lagos,South-South,Pending,11250000,Late
+APX1279,9/7/2025,N/A,Laptop,12,1702,95,Abuja,South-South,Cancelled,20424,Late
+APX1385,12/7/2025,Pz,Soap,30,800,5,Abuja,South-South,Delivered,24000,Normal
+APX1398,10/15/2025,Dangote,Sugar,2500,4500,95,Port Harcourt,South-South,Returned,11250000,Late
+APX1029,2/3/2025,Dangote,Laptop,2500,800,3,Lagos,South-West,Delivered,2000000,Fast
+APX1405,12/2/2025,N/A,Soap,12,850000,3,Port Harcourt,South-West,Delivered,10200000,Fast
+APX1044,3/7/2025,Nestle,Cement,12,850000,95,Lagos,South-West,Delivered,10200000,Late
+APX1093,12/31/2025,Bua,Laptop,12,800,3,Unknown,South-South,Delivered,9600,Fast
+APX1033,5/1/2025,N/A,Noodles,152,6500,3,Port Harcourt,North-East,Delivered,988000,Fast
+APX1083,10/10/2025,Dangote,Cement,12,4500,95,Port Harcourt,South-South,Returned,54000,Late
+APX1241,5/19/2025,Bua,Laptop,2500,800,3,Port Harcourt,South-South,Returned,2000000,Fast
+APX1224,4/19/2025,Bua,Cement,30,850000,11,Lagos,South-South,Delivered,25500000,Late
+APX1000,3/12/2025,Dangote,Laptop,30,16349,10,Port Harcourt,South-West,Delivered,490470,Late
+APX1404,8/30/2025,Dangote,Noodles,2500,800,95,Port Harcourt,South-South,Delivered,2000000,Late
+APX1307,4/6/2025,N/A,Laptop,12,6500,3,Abuja,South-South,Returned,78000,Fast
+APX1184,1/31/2025,Pz,Laptop,30,6500,95,Unknown,South-West,Cancelled,195000,Late
+APX1384,11/4/2025,Nestle,Laptop,2500,4500,95,Port Harcourt,North-East,Cancelled,11250000,Late
+APX1130,4/11/2025,N/A,Cement,106,4500,95,Port Harcourt,South-South,Pending,477000,Late
+APX1026,2/19/2025,Nestle,Laptop,12,4500,3,Port Harcourt,South-South,Cancelled,54000,Fast
+APX1417,6/9/2025,Dangote,Laptop,12,4500,95,Port Harcourt,South-West,Returned,54000,Late
+APX1370,3/17/2025,Dangote,Laptop,12,6500,3,Unknown,South-South,Pending,78000,Fast
+APX1199,7/25/2025,Dangote,Laptop,30,4500,3,Lagos,South-South,Cancelled,135000,Fast
+APX1006,8/31/2025,Bua,Laptop,30,4500,95,Lagos,North-East,Returned,135000,Late
+APX1421,5/18/2025,Dangote,Cement,147,6500,95,Port Harcourt,South-West,Cancelled,955500,Late
+APX1394,9/9/2025,Bua,Cement,12,800,3,Port Harcourt,North-East,Pending,9600,Fast
+APX1146,11/15/2025,Dangote,Noodles,30,850000,3,Port Harcourt,North-East,Pending,25500000,Fast
+APX1331,12/23/2025,N/A,Cement,2500,4500,95,Port Harcourt,South-South,Delivered,11250000,Late
+APX1401,1/22/2025,Dangote,Laptop,12,850000,3,Abuja,South-South,Returned,10200000,Fast
+APX1009,5/22/2025,Bua,Laptop,44,18704,3,Lagos,South-South,Pending,822976,Fast
+APX1287,2/13/2025,N/A,Laptop,160,6500,3,Abuja,South-South,Pending,1040000,Fast
+APX1170,11/5/2025,Pz,Noodles,2500,6500,3,Lagos,South-West,Returned,16250000,Fast
+APX1330,8/6/2025,Dangote,Soap,30,4500,8,Lagos,South-South,Cancelled,135000,Late
+APX1369,4/29/2025,Unilever,Noodles,12,6500,3,Port Harcourt,North-East,Delivered,78000,Fast
+APX1210,10/6/2025,Nestle,Laptop,12,6500,95,Unknown,North-East,Delivered,78000,Late
+APX1135,6/24/2025,Dangote,Soap,30,39745,3,Lagos,South-South,Delivered,1192350,Fast
+APX1382,12/16/2025,Dangote,Noodles,2500,13165,3,Port Harcourt,South-South,Delivered,32912500,Fast
+APX1284,8/2/2025,Dangote,Cement,12,800,3,Lagos,North-East,Pending,9600,Fast
+APX1288,3/10/2025,Pz,Soap,125,4500,3,Lagos,North-East,Delivered,562500,Fast
+APX1366,3/29/2025,Dangote,Soap,12,4500,3,Abuja,South-South,Pending,54000,Fast
+APX1268,2/2/2025,Dangote,Noodles,30,42700,3,Port Harcourt,South-South,Delivered,1281000,Fast
+APX1215,1/26/2025,Bua,Soap,2500,800,95,Port Harcourt,South-South,Delivered,2000000,Late
+APX1266,12/29/2025,Nestle,Cement,2500,800,8,Port Harcourt,North-East,Delivered,2000000,Late
+APX1357,2/27/2025,Nestle,Rice,2500,800,6,Abuja,South-South,Delivered,2000000,Normal
+APX1380,6/18/2025,N/A,Laptop,2500,4500,95,Port Harcourt,South-West,Delivered,11250000,Late
+APX1294,10/1/2025,Dangote,Laptop,2500,800,3,Port Harcourt,South-South,Delivered,2000000,Fast
+APX1282,12/26/2025,Nestle,Rice,2500,850000,4,Lagos,South-South,Returned,2125000000,Normal
+APX1225,9/6/2025,Pz,Laptop,2500,6500,95,Port Harcourt,South-South,Delivered,16250000,Late
+APX1360,12/1/2025,Bua,Soap,136,850000,9,Port Harcourt,South-South,Delivered,115600000,Late
+APX1199,12/25/2025,Pz,Soap,2500,48218,3,Port Harcourt,South-South,Delivered,120545000,Fast
+APX1254,3/6/2025,Nestle,Rice,12,4500,5,Kano,South-South,Delivered,54000,Normal
+APX1197,11/30/2025,Dangote,Laptop,12,4500,4,Lagos,South-South,Pending,54000,Normal
+APX1073,3/31/2025,Pz,Cement,30,6500,3,Lagos,South-South,Delivered,195000,Fast
+APX1142,12/15/2025,Dangote,Rice,30,800,5,Port Harcourt,North-East,Delivered,24000,Normal
+APX1073,5/20/2025,Dangote,Rice,96,4500,2,Port Harcourt,South-South,Returned,432000,Fast
+APX1290,6/22/2025,Bua,Rice,12,7649,3,Lagos,South-South,Delivered,91788,Fast
+APX1375,8/14/2025,Dangote,Noodles,30,6500,3,Port Harcourt,South-South,Delivered,195000,Fast
+APX1389,10/24/2025,Dangote,Laptop,197,800,95,Port Harcourt,South-South,Delivered,157600,Late
+APX1353,9/21/2025,Nestle,Noodles,12,6500,3,Lagos,North-East,Delivered,78000,Fast
+APX1335,3/2/2025,Dangote,Sugar,30,800,4,Abuja,North-East,Delivered,24000,Normal
+APX1244,9/28/2025,Dangote,Laptop,2500,800,3,Lagos,South-South,Delivered,2000000,Fast
+APX1119,10/29/2025,Pz,Laptop,12,4500,4,Port Harcourt,South-West,Delivered,54000,Normal
+APX1291,12/30/2025,Nestle,Laptop,176,800,1,Lagos,South-South,Returned,140800,Fast
+APX1039,9/12/2025,Dangote,Soap,2500,800,95,Abuja,North-East,Cancelled,2000000,Late
+APX1136,12/24/2025,Bua,Cement,117,800,3,Port Harcourt,South-South,Delivered,93600,Fast
+APX1009,9/5/2025,Bua,Soap,2500,850000,10,Abuja,South-South,Delivered,2125000000,Late
+APX1214,1/3/2025,Bua,Rice,33,800,3,Port Harcourt,South-West,Delivered,26400,Fast
+APX1157,7/31/2025,Unilever,Laptop,56,4500,9,Port Harcourt,South-West,Returned,252000,Late
+APX1129,11/1/2025,Dangote,Noodles,2500,850000,95,Abuja,South-South,Delivered,2125000000,Late
+APX1069,11/13/2025,N/A,Sugar,12,4500,95,Port Harcourt,South-South,Delivered,54000,Late
+APX1393,12/21/2025,Dangote,Laptop,30,850000,3,Unknown,South-South,Delivered,25500000,Fast
+APX1423,8/27/2025,Bua,Sugar,12,9708,95,Abuja,South-South,Delivered,116496,Late
+APX1112,9/3/2025,Dangote,Sugar,12,800,3,Port Harcourt,North-East,Delivered,9600,Fast
+APX1365,7/6/2025,N/A,Rice,30,4500,95,Lagos,South-West,Cancelled,135000,Late
+APX1313,1/3/2025,Dangote,Laptop,2500,6500,10,Kano,South-South,Delivered,16250000,Late
+APX1109,12/19/2025,Bua,Noodles,2500,850000,3,Abuja,South-South,Delivered,2125000000,Fast
+APX1105,12/14/2025,Dangote,Soap,12,14541,3,Unknown,South-South,Delivered,174492,Fast
+APX1281,10/15/2025,Nestle,Laptop,30,850000,95,Kano,South-South,Delivered,25500000,Late
+APX1239,10/8/2025,Nestle,Cement,12,23371,95,Port Harcourt,South-South,Pending,280452,Late
+APX1167,3/21/2025,N/A,Cement,2500,6500,3,Kano,South-South,Delivered,16250000,Fast
+APX1277,7/18/2025,Dangote,Noodles,30,6970,3,Abuja,South-South,Cancelled,209100,Fast
+APX1231,12/1/2025,Pz,Laptop,12,4500,3,Port Harcourt,South-West,Delivered,54000,Fast
+APX1410,11/27/2025,Dangote,Noodles,12,800,3,Kano,South-South,Delivered,9600,Fast
+APX1156,8/11/2025,Pz,Rice,12,14624,95,Unknown,South-South,Delivered,175488,Late
+APX1281,1/26/2025,Dangote,Rice,40,850000,95,Abuja,South-South,Delivered,34000000,Late
+APX1344,9/29/2025,Nestle,Rice,12,6500,10,Unknown,South-South,Delivered,78000,Late
+APX1293,5/7/2025,Dangote,Laptop,30,850000,95,Port Harcourt,South-South,Cancelled,25500000,Late
+APX1371,10/30/2025,N/A,Noodles,30,800,3,Lagos,South-South,Delivered,24000,Fast
+APX1138,11/3/2025,Pz,Cement,30,6500,8,Lagos,North-East,Delivered,195000,Late
+APX1308,4/20/2025,Nestle,Sugar,2500,4500,3,Port Harcourt,North-East,Delivered,11250000,Fast
+APX1079,12/25/2025,Unilever,Soap,12,6500,2,Lagos,South-South,Delivered,78000,Fast
+APX1055,9/20/2025,Pz,Laptop,12,850000,95,Port Harcourt,South-West,Delivered,10200000,Late
+APX1366,10/25/2025,Bua,Noodles,30,17559,4,Kano,South-West,Delivered,526770,Normal
+APX1054,9/12/2025,Pz,Sugar,12,6500,95,Lagos,South-South,Returned,78000,Late
+APX1160,4/24/2025,N/A,Soap,145,800,7,Port Harcourt,South-South,Returned,116000,Normal
+APX1114,10/1/2025,Nestle,Noodles,12,800,4,Lagos,South-South,Cancelled,9600,Normal
+APX1395,2/28/2025,Unilever,Laptop,41,850000,3,Unknown,South-South,Delivered,34850000,Fast
+APX1411,9/28/2025,Unilever,Noodles,30,26888,5,Port Harcourt,South-South,Delivered,806640,Normal
+APX1065,2/13/2025,N/A,Laptop,2500,800,10,Port Harcourt,South-South,Delivered,2000000,Late
+APX1315,11/11/2025,Bua,Rice,30,2837,5,Port Harcourt,South-South,Delivered,85110,Normal
+APX1085,8/15/2025,Bua,Noodles,2500,800,3,Kano,South-South,Delivered,2000000,Fast
+APX1318,11/28/2025,Pz,Laptop,154,6500,3,Lagos,South-South,Delivered,1001000,Fast
+APX1304,11/8/2025,Bua,Laptop,30,6500,3,Abuja,South-South,Returned,195000,Fast
+APX1211,6/11/2025,Bua,Sugar,196,4500,3,Lagos,South-South,Cancelled,882000,Fast
+APX1028,5/12/2025,N/A,Rice,12,850000,4,Port Harcourt,South-South,Delivered,10200000,Normal
+APX1006,9/2/2025,Dangote,Soap,12,46858,1,Lagos,South-West,Delivered,562296,Fast
+APX1266,1/2/2025,Nestle,Laptop,30,850000,2,Port Harcourt,South-South,Delivered,25500000,Fast
+APX1220,12/18/2025,Nestle,Noodles,2500,800,95,Port Harcourt,South-South,Returned,2000000,Late
+APX1345,4/30/2025,N/A,Laptop,12,850000,3,Port Harcourt,North-East,Returned,10200000,Fast
+APX1417,3/24/2025,N/A,Cement,2500,4500,3,Unknown,South-South,Delivered,11250000,Fast
+APX1236,11/21/2025,Nestle,Noodles,30,850000,95,Kano,South-South,Cancelled,25500000,Late
+APX1225,2/5/2025,Pz,Sugar,29,850000,3,Lagos,South-South,Pending,24650000,Fast
+APX1335,9/18/2025,N/A,Cement,12,6500,95,Kano,South-South,Pending,78000,Late
+APX1132,3/2/2025,Nestle,Laptop,75,4500,95,Port Harcourt,South-South,Delivered,337500,Late
+APX1004,3/20/2025,Dangote,Laptop,30,6500,95,Unknown,South-South,Pending,195000,Late
+APX1160,2/3/2025,Dangote,Sugar,2500,26653,11,Port Harcourt,South-West,Returned,66632500,Late
+APX1256,5/27/2025,Dangote,Laptop,12,26731,4,Port Harcourt,South-South,Delivered,320772,Normal
+APX1362,7/1/2025,Dangote,Sugar,30,46467,3,Kano,South-South,Delivered,1394010,Fast
+APX1213,10/11/2025,Dangote,Sugar,136,4500,3,Port Harcourt,South-West,Pending,612000,Fast
+APX1214,5/4/2025,Nestle,Cement,42,6500,95,Port Harcourt,South-South,Returned,273000,Late
+APX1210,2/2/2025,Nestle,Cement,30,850000,95,Port Harcourt,North-East,Delivered,25500000,Late
+APX1198,4/19/2025,Pz,Cement,2500,850000,3,Port Harcourt,North-East,Delivered,2125000000,Fast
+APX1348,10/7/2025,Pz,Rice,89,4500,13,Unknown,South-South,Delivered,400500,Late
+APX1148,10/6/2025,N/A,Cement,111,6500,3,Port Harcourt,South-South,Delivered,721500,Fast
+APX1199,12/29/2025,Dangote,Noodles,30,44502,95,Port Harcourt,North-East,Delivered,1335060,Late
+APX1092,7/25/2025,Dangote,Soap,30,6500,9,Port Harcourt,South-South,Delivered,195000,Late
+APX1238,4/27/2025,Dangote,Sugar,30,6500,95,Lagos,South-South,Delivered,195000,Late
+APX1085,11/11/2025,Nestle,Soap,12,1282,3,Port Harcourt,South-South,Delivered,15384,Fast
+APX1107,9/10/2025,Unilever,Rice,107,4500,3,Lagos,South-South,Delivered,481500,Fast
+APX1148,12/26/2025,Unilever,Rice,30,6500,3,Port Harcourt,South-South,Pending,195000,Fast
+APX1415,10/13/2025,Unilever,Laptop,164,6500,95,Abuja,South-South,Pending,1066000,Late
+APX1383,9/29/2025,Pz,Soap,30,36837,3,Lagos,South-West,Returned,1105110,Fast
+APX1146,3/8/2025,Dangote,Laptop,12,4500,95,Port Harcourt,South-West,Cancelled,54000,Late
+APX1014,10/7/2025,N/A,Noodles,12,800,9,Lagos,South-South,Delivered,9600,Late
+APX1169,11/8/2025,N/A,Laptop,30,29943,95,Port Harcourt,South-West,Delivered,898290,Late
+APX1001,3/9/2025,Nestle,Rice,12,4500,5,Port Harcourt,North-East,Returned,54000,Normal
+APX1298,6/1/2025,Bua,Sugar,12,850000,95,Port Harcourt,South-South,Cancelled,10200000,Late
+APX1419,5/4/2025,N/A,Sugar,188,850000,95,Lagos,South-South,Cancelled,159800000,Late
+APX1226,4/30/2025,Pz,Laptop,2500,850000,95,Port Harcourt,South-South,Delivered,2125000000,Late
+APX1231,9/17/2025,Pz,Sugar,26,6500,10,Port Harcourt,South-West,Delivered,169000,Late
+APX1130,11/3/2025,Pz,Cement,41,850000,13,Lagos,South-South,Delivered,34850000,Late
+APX1333,7/8/2025,Pz,Noodles,126,850000,13,Port Harcourt,South-West,Delivered,107100000,Late
+APX1195,4/20/2025,Bua,Rice,2500,4500,95,Lagos,North-East,Returned,11250000,Late
+APX1185,8/1/2025,Dangote,Soap,30,16891,9,Abuja,South-South,Returned,506730,Late
+APX1367,12/6/2025,Pz,Laptop,12,27319,3,Kano,North-East,Delivered,327828,Fast
+APX1181,2/21/2025,Dangote,Sugar,30,6500,2,Port Harcourt,South-South,Delivered,195000,Fast
+APX1216,6/15/2025,Dangote,Soap,54,850000,11,Abuja,South-West,Delivered,45900000,Late
+APX1403,5/25/2025,Unilever,Noodles,2500,6500,3,Port Harcourt,South-South,Delivered,16250000,Fast
+APX1417,3/13/2025,Bua,Noodles,12,800,13,Port Harcourt,South-South,Delivered,9600,Late
+APX1004,1/30/2025,Nestle,Laptop,2500,800,2,Port Harcourt,North-East,Cancelled,2000000,Fast
+APX1394,3/12/2025,Unilever,Laptop,3,800,3,Lagos,South-South,Delivered,2400,Fast
+APX1172,4/22/2025,Nestle,Laptop,2500,6500,3,Port Harcourt,South-South,Pending,16250000,Fast
+APX1026,5/28/2025,Unilever,Cement,30,800,3,Port Harcourt,South-South,Delivered,24000,Fast
+APX1069,3/7/2025,N/A,Laptop,30,49555,95,Port Harcourt,South-West,Delivered,1486650,Late
+APX1380,3/1/2025,Bua,Soap,2500,10624,3,Lagos,South-South,Cancelled,26560000,Fast
+APX1083,5/29/2025,Dangote,Cement,2500,800,12,Abuja,South-West,Delivered,2000000,Late
+APX1382,11/26/2025,Bua,Soap,30,850000,95,Lagos,North-East,Delivered,25500000,Late
+APX1428,11/28/2025,Dangote,Laptop,30,6500,12,Port Harcourt,South-West,Cancelled,195000,Late
+APX1100,10/18/2025,Nestle,Laptop,179,6500,95,Port Harcourt,South-South,Returned,1163500,Late
+APX1075,5/21/2025,Dangote,Soap,12,6500,95,Port Harcourt,North-East,Cancelled,78000,Late
+APX1237,11/19/2025,Bua,Rice,30,9235,3,Kano,South-South,Delivered,277050,Fast
+APX1213,10/30/2025,Nestle,Sugar,30,4500,95,Port Harcourt,South-West,Cancelled,135000,Late
+APX1017,8/27/2025,Dangote,Laptop,2500,850000,10,Port Harcourt,South-West,Delivered,2125000000,Late
+APX1358,4/21/2025,Dangote,Sugar,30,800,95,Port Harcourt,South-South,Pending,24000,Late
+APX1176,7/20/2025,Dangote,Soap,2500,850000,95,Lagos,South-West,Delivered,2125000000,Late
+APX1239,11/24/2025,Dangote,Cement,30,4500,95,Port Harcourt,North-East,Delivered,135000,Late
+APX1126,10/25/2025,Pz,Noodles,12,6500,3,Port Harcourt,South-South,Returned,78000,Fast
+APX1403,7/22/2025,Dangote,Laptop,2500,31423,1,Unknown,South-West,Pending,78557500,Fast
+APX1325,12/18/2025,Dangote,Cement,2500,800,95,Kano,South-South,Pending,2000000,Late
+APX1106,2/27/2025,Nestle,Cement,30,850000,3,Lagos,South-West,Delivered,25500000,Fast
+APX1422,12/24/2025,Nestle,Sugar,30,4500,3,Lagos,South-South,Delivered,135000,Fast
+APX1135,1/28/2025,Bua,Noodles,11,4500,95,Lagos,South-West,Cancelled,49500,Late
+APX1295,4/30/2025,Nestle,Rice,12,4500,9,Port Harcourt,South-West,Pending,54000,Late
+APX1189,3/25/2025,Dangote,Laptop,12,4500,6,Port Harcourt,North-East,Cancelled,54000,Normal
+APX1292,1/31/2025,Bua,Laptop,2500,800,2,Port Harcourt,South-South,Delivered,2000000,Fast
+APX1204,6/27/2025,Bua,Soap,10,850000,14,Lagos,South-South,Delivered,8500000,Late
+APX1273,7/3/2025,Bua,Laptop,18,29411,6,Port Harcourt,South-South,Cancelled,529398,Normal
+APX1191,1/25/2025,Pz,Sugar,2500,4500,13,Unknown,South-South,Delivered,11250000,Late
+APX1225,3/31/2025,N/A,Laptop,30,800,3,Port Harcourt,South-South,Delivered,24000,Fast
+APX1324,4/4/2025,N/A,Soap,30,46605,95,Port Harcourt,South-South,Delivered,1398150,Late
+APX1066,12/16/2025,Dangote,Rice,30,38968,5,Port Harcourt,South-South,Returned,1169040,Normal
+APX1286,8/11/2025,Dangote,Noodles,30,6500,95,Port Harcourt,North-East,Cancelled,195000,Late
+APX1014,12/6/2025,Unilever,Laptop,2500,850000,5,Port Harcourt,South-South,Pending,2125000000,Normal
+APX1414,2/18/2025,N/A,Noodles,21,800,14,Port Harcourt,South-South,Pending,16800,Late
+APX1320,11/9/2025,Nestle,Noodles,30,4500,1,Unknown,South-South,Delivered,135000,Fast
+APX1060,3/6/2025,Dangote,Sugar,12,6500,95,Kano,South-West,Cancelled,78000,Late
+APX1360,10/5/2025,Dangote,Laptop,2500,800,3,Lagos,South-West,Delivered,2000000,Fast
+APX1099,12/7/2025,Dangote,Laptop,12,6500,95,Lagos,North-East,Delivered,78000,Late
+APX1231,9/11/2025,Pz,Rice,141,4500,3,Lagos,South-South,Delivered,634500,Fast
+APX1077,11/29/2025,Dangote,Laptop,12,850000,13,Lagos,South-South,Delivered,10200000,Late
+APX1100,1/21/2025,Dangote,Sugar,2500,4500,95,Unknown,South-South,Delivered,11250000,Late
+APX1247,10/5/2025,Nestle,Sugar,7,6500,95,Port Harcourt,South-South,Pending,45500,Late
+APX1295,7/19/2025,Bua,Rice,2500,4500,11,Kano,South-South,Cancelled,11250000,Late
+APX1107,12/6/2025,Dangote,Laptop,2500,4500,3,Lagos,South-South,Delivered,11250000,Fast
+APX1315,3/30/2025,Dangote,Sugar,2500,6500,3,Port Harcourt,South-South,Returned,16250000,Fast
+APX1304,9/26/2025,Pz,Rice,2500,800,95,Port Harcourt,South-South,Returned,2000000,Late
+APX1295,7/7/2025,Dangote,Laptop,2500,4500,95,Lagos,North-East,Delivered,11250000,Late
+APX1319,7/2/2025,Pz,Sugar,12,800,9,Abuja,South-South,Delivered,9600,Late
+APX1371,11/19/2025,Pz,Laptop,30,6500,3,Lagos,South-South,Delivered,195000,Fast
+APX1000,12/12/2025,Dangote,Rice,2500,800,3,Lagos,South-South,Pending,2000000,Fast
+APX1342,5/6/2025,Dangote,Rice,30,800,95,Kano,North-East,Delivered,24000,Late
+APX1301,10/15/2025,Bua,Cement,30,21399,95,Lagos,North-East,Returned,641970,Late
+APX1055,8/15/2025,Dangote,Laptop,2500,4500,95,Port Harcourt,South-South,Delivered,11250000,Late
+APX1041,12/19/2025,Pz,Cement,12,40264,7,Port Harcourt,South-West,Returned,483168,Normal
+APX1047,10/28/2025,Pz,Laptop,30,30052,3,Abuja,South-South,Delivered,901560,Fast
+APX1081,2/16/2025,Pz,Soap,12,850000,7,Unknown,South-South,Cancelled,10200000,Normal
+APX1110,8/30/2025,Pz,Sugar,2500,4500,2,Lagos,South-West,Delivered,11250000,Fast
+APX1219,9/20/2025,Dangote,Cement,2500,6500,7,Kano,South-South,Delivered,16250000,Normal
+APX1406,5/29/2025,N/A,Cement,160,800,95,Abuja,South-West,Delivered,128000,Late
+APX1088,5/30/2025,Unilever,Sugar,80,800,3,Lagos,South-South,Pending,64000,Fast
+APX1076,12/20/2025,Nestle,Laptop,30,6500,95,Kano,South-South,Returned,195000,Late
+APX1241,3/21/2025,Pz,Rice,2500,4500,3,Kano,South-South,Pending,11250000,Fast
+APX1296,3/25/2025,Dangote,Laptop,2500,850000,3,Port Harcourt,South-South,Delivered,2125000000,Fast
+APX1333,9/28/2025,Dangote,Soap,30,850000,4,Abuja,South-South,Delivered,25500000,Normal
+APX1217,10/30/2025,N/A,Laptop,104,800,3,Abuja,North-East,Pending,83200,Fast
+APX1099,3/4/2025,N/A,Sugar,124,4500,7,Kano,South-South,Delivered,558000,Normal
+APX1203,12/4/2025,Dangote,Sugar,12,850000,3,Port Harcourt,South-West,Delivered,10200000,Fast
+APX1080,7/31/2025,Dangote,Soap,30,4500,10,Port Harcourt,South-South,Delivered,135000,Late
+APX1394,12/21/2025,Dangote,Laptop,2500,4500,3,Abuja,South-South,Delivered,11250000,Fast
+APX1414,11/10/2025,Bua,Laptop,2500,850000,10,Port Harcourt,South-South,Cancelled,2125000000,Late
+APX1380,9/25/2025,Bua,Noodles,30,4500,3,Lagos,South-South,Pending,135000,Fast
+APX1378,5/6/2025,Pz,Cement,12,4500,95,Port Harcourt,South-South,Cancelled,54000,Late
+APX1340,8/23/2025,Unilever,Rice,187,4500,3,Port Harcourt,South-West,Delivered,841500,Fast
+APX1324,2/24/2025,Bua,Laptop,30,800,13,Unknown,South-South,Delivered,24000,Late
+APX1240,5/25/2025,Unilever,Laptop,30,29641,3,Port Harcourt,South-South,Cancelled,889230,Fast
+APX1232,11/28/2025,Dangote,Laptop,6,4500,95,Port Harcourt,South-South,Cancelled,27000,Late
+APX1107,9/5/2025,Bua,Sugar,30,35191,3,Lagos,South-South,Pending,1055730,Fast
+APX1369,8/8/2025,Dangote,Laptop,12,4500,3,Lagos,South-South,Delivered,54000,Fast
+APX1309,9/9/2025,Nestle,Rice,102,20113,2,Port Harcourt,South-West,Delivered,2051526,Fast
+APX1085,8/11/2025,Nestle,Laptop,12,800,3,Unknown,South-South,Delivered,9600,Fast
+APX1176,4/25/2025,Dangote,Cement,2500,12970,12,Lagos,South-West,Delivered,32425000,Late
+APX1113,4/13/2025,Bua,Laptop,30,4500,6,Port Harcourt,North-East,Delivered,135000,Normal
+APX1266,8/16/2025,Bua,Sugar,12,4500,95,Port Harcourt,South-South,Pending,54000,Late
+APX1261,7/26/2025,Bua,Rice,2500,850000,3,Port Harcourt,South-South,Delivered,2125000000,Fast
+APX1132,4/9/2025,Dangote,Rice,2500,34868,3,Port Harcourt,South-South,Delivered,87170000,Fast
+APX1085,1/3/2025,Dangote,Laptop,62,47436,3,Unknown,South-South,Pending,2941032,Fast
+APX1040,6/19/2025,Dangote,Laptop,2500,6500,95,Abuja,South-South,Delivered,16250000,Late
+APX1146,12/6/2025,Dangote,Laptop,34,800,95,Port Harcourt,South-West,Cancelled,27200,Late
+APX1268,2/19/2025,Pz,Laptop,30,850000,95,Port Harcourt,South-West,Cancelled,25500000,Late
+APX1038,7/21/2025,Dangote,Sugar,30,800,3,Port Harcourt,South-South,Returned,24000,Fast
+APX1234,9/15/2025,N/A,Rice,2500,850000,3,Unknown,South-South,Pending,2125000000,Fast
+APX1271,11/28/2025,Bua,Cement,79,800,2,Port Harcourt,South-South,Returned,63200,Fast
+APX1185,11/9/2025,Bua,Noodles,172,6500,3,Port Harcourt,South-South,Delivered,1118000,Fast
+APX1110,2/23/2025,Unilever,Laptop,30,850000,3,Abuja,South-South,Cancelled,25500000,Fast
+APX1149,11/7/2025,N/A,Laptop,78,850000,3,Kano,North-East,Delivered,66300000,Fast
+APX1182,2/12/2025,Dangote,Laptop,2500,4500,2,Port Harcourt,South-South,Delivered,11250000,Fast
+APX1000,4/17/2025,Dangote,Laptop,30,800,3,Port Harcourt,South-West,Returned,24000,Fast
+APX1044,3/10/2025,N/A,Laptop,188,6500,10,Abuja,South-South,Cancelled,1222000,Late
+APX1125,11/18/2025,Dangote,Noodles,30,850000,9,Port Harcourt,South-South,Returned,25500000,Late
+APX1394,2/21/2025,Unilever,Laptop,30,800,95,Lagos,South-South,Delivered,24000,Late
+APX1004,12/28/2025,Pz,Sugar,12,6500,95,Kano,South-South,Pending,78000,Late
+APX1317,11/27/2025,Dangote,Cement,12,800,3,Lagos,South-South,Delivered,9600,Fast
+APX1209,6/28/2025,Unilever,Soap,133,850000,3,Abuja,South-South,Delivered,113050000,Fast
+APX1107,12/1/2025,Bua,Laptop,30,4500,95,Abuja,South-West,Cancelled,135000,Late
+APX1078,7/3/2025,Pz,Soap,175,850000,5,Port Harcourt,South-West,Delivered,148750000,Normal
+APX1138,11/9/2025,Pz,Laptop,197,850000,95,Kano,South-South,Pending,167450000,Late
+APX1096,10/7/2025,N/A,Cement,12,800,95,Lagos,North-East,Cancelled,9600,Late
+APX1357,3/8/2025,Dangote,Sugar,2500,6500,9,Kano,South-South,Delivered,16250000,Late
+APX1311,5/4/2025,Bua,Laptop,12,4500,95,Unknown,North-East,Delivered,54000,Late
+APX1397,4/10/2025,Bua,Sugar,2500,3478,3,Port Harcourt,South-South,Returned,8695000,Fast
+APX1079,10/20/2025,N/A,Laptop,12,800,95,Port Harcourt,South-South,Returned,9600,Late
+APX1328,5/6/2025,Dangote,Rice,2500,6500,3,Port Harcourt,South-South,Delivered,16250000,Fast
+APX1336,10/7/2025,Unilever,Soap,30,850000,9,Unknown,South-South,Delivered,25500000,Late
+APX1006,2/12/2025,Dangote,Soap,12,850000,95,Kano,South-South,Cancelled,10200000,Late
+APX1343,2/14/2025,Dangote,Soap,2500,6500,7,Abuja,South-South,Cancelled,16250000,Normal
+APX1224,9/20/2025,Dangote,Laptop,2500,850000,3,Unknown,South-South,Delivered,2125000000,Fast
+APX1359,10/23/2025,Dangote,Soap,2500,800,2,Port Harcourt,South-South,Cancelled,2000000,Fast
+APX1044,6/6/2025,Dangote,Soap,168,800,95,Abuja,South-South,Delivered,134400,Late
+APX1376,3/31/2025,Bua,Cement,30,2420,95,Lagos,North-East,Returned,72600,Late
+APX1075,2/4/2025,N/A,Cement,2500,850000,95,Port Harcourt,South-West,Cancelled,2125000000,Late
+APX1150,1/4/2025,Dangote,Rice,2500,38781,3,Lagos,North-East,Delivered,96952500,Fast
+APX1235,5/4/2025,Nestle,Laptop,12,4500,11,Unknown,North-East,Delivered,54000,Late
+APX1422,9/19/2025,Nestle,Laptop,30,4500,95,Lagos,South-South,Pending,135000,Late
+APX1367,2/7/2025,Unilever,Laptop,147,27737,95,Abuja,South-South,Delivered,4077339,Late
+APX1275,9/9/2025,Bua,Laptop,62,6500,3,Port Harcourt,South-South,Returned,403000,Fast
+APX1290,11/30/2025,Unilever,Rice,30,6500,95,Abuja,North-East,Delivered,195000,Late
+APX1099,3/10/2025,Nestle,Laptop,2500,4500,8,Kano,South-South,Pending,11250000,Late
+APX1028,1/10/2025,Nestle,Laptop,30,6500,3,Port Harcourt,South-South,Delivered,195000,Fast
+APX1214,12/7/2025,Dangote,Noodles,178,10229,8,Unknown,South-South,Cancelled,1820762,Late
+APX1302,7/26/2025,Nestle,Laptop,6,800,95,Port Harcourt,South-South,Returned,4800,Late
+APX1059,2/24/2025,Dangote,Noodles,12,850000,95,Kano,South-West,Delivered,10200000,Late
+APX1207,3/27/2025,Bua,Cement,99,850000,95,Port Harcourt,South-South,Delivered,84150000,Late
+APX1101,7/25/2025,Pz,Soap,2500,850000,95,Abuja,South-South,Delivered,2125000000,Late
+APX1002,12/31/2025,Pz,Noodles,30,850000,7,Lagos,North-East,Pending,25500000,Normal
+APX1173,8/15/2025,Bua,Soap,12,36616,12,Port Harcourt,South-South,Returned,439392,Late
+APX1172,2/28/2025,Pz,Sugar,149,6500,3,Abuja,North-East,Cancelled,968500,Fast
+APX1161,8/13/2025,Unilever,Laptop,2500,25148,3,Lagos,South-South,Delivered,62870000,Fast
+APX1027,12/23/2025,Dangote,Noodles,30,4500,3,Kano,South-West,Delivered,135000,Fast
+APX1368,12/4/2025,N/A,Laptop,165,4500,95,Port Harcourt,South-South,Pending,742500,Late
+APX1384,5/18/2025,Dangote,Laptop,2500,6500,6,Port Harcourt,South-South,Delivered,16250000,Normal
+APX1385,8/27/2025,N/A,Laptop,155,850000,95,Port Harcourt,South-South,Cancelled,131750000,Late
+APX1291,9/11/2025,Dangote,Cement,2500,850000,3,Lagos,South-South,Delivered,2125000000,Fast
+APX1011,7/8/2025,Pz,Sugar,2500,4500,3,Port Harcourt,South-South,Cancelled,11250000,Fast
+APX1067,9/8/2025,Dangote,Laptop,2500,6220,3,Port Harcourt,South-South,Cancelled,15550000,Fast
+APX1108,4/13/2025,Dangote,Sugar,12,6500,3,Port Harcourt,South-West,Returned,78000,Fast
+APX1426,11/18/2025,Pz,Soap,2500,15198,4,Abuja,South-South,Delivered,37995000,Normal
+APX1261,3/26/2025,N/A,Cement,30,6500,3,Lagos,South-West,Pending,195000,Fast
+APX1121,2/4/2025,Dangote,Rice,111,23072,95,Port Harcourt,South-South,Delivered,2560992,Late
+APX1092,9/25/2025,Dangote,Soap,2500,800,4,Lagos,South-West,Delivered,2000000,Normal
+APX1162,12/12/2025,Pz,Laptop,30,6500,95,Port Harcourt,South-South,Delivered,195000,Late
+APX1281,1/9/2025,Pz,Laptop,30,800,6,Port Harcourt,South-South,Delivered,24000,Normal
+APX1025,4/20/2025,Bua,Soap,200,800,95,Port Harcourt,South-South,Pending,160000,Late
+APX1220,6/20/2025,Bua,Laptop,30,800,3,Abuja,South-West,Delivered,24000,Fast
+APX1358,8/21/2025,Pz,Soap,30,4500,95,Lagos,South-South,Delivered,135000,Late
+APX1380,4/18/2025,Bua,Noodles,2500,4500,95,Lagos,South-South,Delivered,11250000,Late
+APX1139,11/5/2025,N/A,Cement,30,39988,6,Abuja,North-East,Returned,1199640,Normal
+APX1135,8/13/2025,Bua,Noodles,12,800,6,Port Harcourt,South-South,Delivered,9600,Normal
+APX1220,6/14/2025,Dangote,Laptop,116,850000,95,Port Harcourt,North-East,Pending,98600000,Late
+APX1420,4/28/2025,Unilever,Laptop,12,800,3,Port Harcourt,South-South,Returned,9600,Fast
+APX1038,11/3/2025,Unilever,Laptop,190,6500,12,Port Harcourt,South-South,Cancelled,1235000,Late
+APX1099,9/15/2025,Bua,Laptop,30,11580,1,Lagos,South-West,Delivered,347400,Fast
+APX1315,4/15/2025,Pz,Noodles,12,800,3,Kano,South-South,Pending,9600,Fast
+APX1199,4/13/2025,Dangote,Laptop,12,6500,2,Port Harcourt,South-West,Delivered,78000,Fast
+APX1393,9/15/2025,N/A,Sugar,12,850000,2,Abuja,South-South,Pending,10200000,Fast
+APX1039,10/18/2025,Nestle,Soap,2500,6500,95,Port Harcourt,South-South,Delivered,16250000,Late
+APX1030,7/22/2025,Bua,Noodles,2500,4500,11,Unknown,South-South,Cancelled,11250000,Late
+APX1231,9/27/2025,Nestle,Cement,76,800,3,Abuja,South-South,Delivered,60800,Fast
+APX1144,11/25/2025,N/A,Laptop,12,28114,3,Abuja,North-East,Delivered,337368,Fast
+APX1248,4/19/2025,Unilever,Soap,12,6500,7,Port Harcourt,South-South,Delivered,78000,Normal
+APX1355,12/30/2025,Bua,Laptop,143,800,3,Port Harcourt,South-West,Delivered,114400,Fast
+APX1200,11/13/2025,Pz,Noodles,30,30719,3,Port Harcourt,North-East,Delivered,921570,Fast
+APX1224,1/30/2025,N/A,Laptop,2500,6500,3,Lagos,North-East,Delivered,16250000,Fast
+APX1065,1/31/2025,Nestle,Rice,30,850000,3,Abuja,South-West,Returned,25500000,Fast
+APX1361,7/2/2025,Nestle,Cement,30,800,3,Kano,South-South,Delivered,24000,Fast
+APX1188,5/14/2025,N/A,Soap,2500,850000,3,Port Harcourt,South-South,Delivered,2125000000,Fast
+APX1348,10/11/2025,Bua,Laptop,110,6500,10,Port Harcourt,South-West,Delivered,715000,Late
+APX1015,1/13/2025,Dangote,Laptop,12,800,95,Lagos,North-East,Delivered,9600,Late
+APX1183,8/31/2025,Dangote,Laptop,144,800,3,Unknown,South-South,Delivered,115200,Fast
+APX1404,9/10/2025,Dangote,Sugar,30,11534,3,Port Harcourt,South-South,Delivered,346020,Fast
+APX1017,1/27/2025,Bua,Noodles,12,42905,95,Kano,North-East,Pending,514860,Late
+APX1334,7/29/2025,Nestle,Cement,30,44651,3,Kano,South-South,Returned,1339530,Fast
+APX1312,5/26/2025,Bua,Rice,30,850000,95,Port Harcourt,South-South,Delivered,25500000,Late
+APX1182,10/20/2025,N/A,Laptop,51,800,3,Abuja,South-West,Returned,40800,Fast
+APX1347,4/4/2025,Nestle,Laptop,172,800,3,Port Harcourt,South-West,Returned,137600,Fast
+APX1110,3/19/2025,Bua,Rice,120,6500,3,Port Harcourt,South-West,Delivered,780000,Fast
+APX1350,8/2/2025,N/A,Laptop,12,33822,95,Port Harcourt,South-West,Delivered,405864,Late
+APX1259,6/24/2025,Nestle,Laptop,30,6333,3,Unknown,South-South,Delivered,189990,Fast
+APX1316,10/9/2025,Bua,Laptop,2500,6500,11,Lagos,North-East,Cancelled,16250000,Late
+APX1145,9/8/2025,N/A,Laptop,30,800,95,Lagos,South-South,Pending,24000,Late
+APX1411,3/17/2025,Unilever,Noodles,85,850000,7,Kano,South-South,Delivered,72250000,Normal
+APX1014,6/2/2025,Nestle,Noodles,82,4500,95,Port Harcourt,South-West,Delivered,369000,Late
+APX1161,5/11/2025,Pz,Sugar,2500,6500,3,Abuja,South-South,Delivered,16250000,Fast
+APX1005,3/24/2025,Nestle,Laptop,2500,38024,10,Abuja,South-South,Delivered,95060000,Late
+APX1296,11/1/2025,Bua,Soap,30,800,3,Port Harcourt,South-West,Cancelled,24000,Fast
+APX1298,5/7/2025,Unilever,Laptop,12,800,14,Kano,South-South,Delivered,9600,Late
+APX1089,10/26/2025,N/A,Soap,2500,850000,3,Port Harcourt,North-East,Returned,2125000000,Fast
+APX1228,8/8/2025,Dangote,Noodles,12,12763,95,Port Harcourt,North-East,Delivered,153156,Late
+APX1364,7/31/2025,Bua,Soap,5,9826,95,Port Harcourt,North-East,Delivered,49130,Late
+APX1076,5/6/2025,Pz,Laptop,12,800,9,Port Harcourt,North-East,Cancelled,9600,Late
+APX1336,11/30/2025,Dangote,Laptop,12,6500,6,Lagos,South-West,Delivered,78000,Normal
+APX1022,9/8/2025,Dangote,Laptop,39,800,95,Abuja,South-West,Delivered,31200,Late
+APX1261,5/2/2025,Unilever,Rice,115,850000,95,Unknown,North-East,Delivered,97750000,Late
+APX1093,4/9/2025,Dangote,Noodles,2500,800,95,Port Harcourt,South-South,Delivered,2000000,Late
+APX1348,5/3/2025,N/A,Laptop,30,850000,7,Unknown,South-South,Delivered,25500000,Normal
+APX1261,9/18/2025,Bua,Sugar,12,800,12,Port Harcourt,South-South,Cancelled,9600,Late
+APX1238,3/3/2025,Bua,Soap,30,850000,3,Port Harcourt,South-South,Cancelled,25500000,Fast
+APX1342,5/29/2025,Pz,Rice,12,800,13,Port Harcourt,North-East,Delivered,9600,Late
+APX1246,7/22/2025,Bua,Rice,2500,6500,95,Port Harcourt,South-South,Delivered,16250000,Late
+APX1347,10/28/2025,Dangote,Rice,22,4500,95,Lagos,South-South,Delivered,99000,Late
+APX1406,11/26/2025,Bua,Soap,2500,850000,3,Kano,South-West,Delivered,2125000000,Fast
+APX1393,8/1/2025,Unilever,Cement,30,800,3,Port Harcourt,North-East,Delivered,24000,Fast
+APX1052,7/29/2025,Dangote,Laptop,12,800,95,Lagos,North-East,Delivered,9600,Late
+APX1375,12/17/2025,Dangote,Sugar,12,35648,3,Unknown,South-South,Delivered,427776,Fast
+APX1254,8/14/2025,Dangote,Rice,119,4500,95,Lagos,North-East,Delivered,535500,Late
+APX1394,6/22/2025,N/A,Soap,2500,6500,95,Lagos,North-East,Delivered,16250000,Late
+APX1001,11/24/2025,Bua,Sugar,12,4500,3,Lagos,South-South,Delivered,54000,Fast
+APX1149,10/9/2025,Bua,Laptop,2500,25111,95,Port Harcourt,South-West,Returned,62777500,Late
+APX1277,12/27/2025,Pz,Sugar,30,48431,95,Port Harcourt,South-South,Delivered,1452930,Late
+APX1055,7/16/2025,Bua,Laptop,2500,4500,7,Unknown,South-South,Pending,11250000,Normal
+APX1141,8/14/2025,Dangote,Soap,2500,25835,7,Port Harcourt,South-West,Cancelled,64587500,Normal
+APX1122,6/19/2025,N/A,Soap,30,4500,3,Lagos,South-South,Delivered,135000,Fast
+APX1153,8/22/2025,Dangote,Laptop,30,4500,3,Port Harcourt,South-West,Returned,135000,Fast
+APX1158,10/25/2025,Unilever,Noodles,2500,800,3,Unknown,North-East,Delivered,2000000,Fast
+APX1104,11/26/2025,Unilever,Laptop,53,800,95,Port Harcourt,South-West,Cancelled,42400,Late
+APX1227,3/11/2025,Nestle,Laptop,30,28998,95,Abuja,North-East,Returned,869940,Late
+APX1204,3/27/2025,Dangote,Laptop,30,4500,3,Unknown,South-South,Delivered,135000,Fast
+APX1007,3/24/2025,Dangote,Rice,30,850000,3,Lagos,South-South,Delivered,25500000,Fast
+APX1208,12/7/2025,Unilever,Laptop,33,2322,3,Unknown,South-South,Delivered,76626,Fast
+APX1246,12/21/2025,Dangote,Rice,112,4500,5,Unknown,South-South,Delivered,504000,Normal
+APX1184,9/28/2025,Bua,Laptop,12,850000,3,Lagos,South-South,Delivered,10200000,Fast
+APX1081,11/15/2025,N/A,Rice,2500,800,8,Port Harcourt,North-East,Delivered,2000000,Late
+APX1419,12/24/2025,N/A,Noodles,166,850000,95,Port Harcourt,South-West,Delivered,141100000,Late
+APX1064,6/17/2025,Dangote,Laptop,30,4500,6,Port Harcourt,South-South,Delivered,135000,Normal
+APX1022,3/22/2025,Bua,Laptop,2500,6500,95,Lagos,South-South,Returned,16250000,Late
+APX1413,1/8/2025,Pz,Rice,12,4500,3,Port Harcourt,South-South,Returned,54000,Fast
+APX1126,3/18/2025,Unilever,Rice,2500,6500,3,Port Harcourt,South-South,Delivered,16250000,Fast
+APX1247,2/19/2025,Pz,Cement,12,6500,4,Port Harcourt,South-South,Returned,78000,Normal
