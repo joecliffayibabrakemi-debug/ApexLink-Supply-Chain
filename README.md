@@ -76,7 +76,7 @@ An interactive Power BI dashboard was built to show sales, supplier performance,
 <img width="1758" height="832" alt="Screenshot 2026-09-14 131308" src="https://github.com/user-attachments/assets/9cb09c6d-df02-4375-8503-d21362679c46" />
 
 ## MySQL Data Retrieving
-<img width="1920" height="1080" alt="Screenshot 2026-09-14 152433" src="https://github.com/user-attachments/assets/83de467e-3a3d-4d59-8fbe-5ed48aecb815" />
+<img width="1920" height="1021" alt="Screenshot 2026-09-14 152433" src="https://github.com/user-attachments/assets/b03b6eb8-84c0-4a01-99f9-c365b22c85d1" />
 
 
 
