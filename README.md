@@ -99,7 +99,7 @@ An interactive Power BI dashboard was built to show sales, supplier performance,
 
 ## Project Challenges
 
-The biggest challenge was finding different values in the two date columns. This was only noticed after checking the columns against each other.
+The biggest challenge was finding different values in the date columns. This was only noticed after checking the columns against each other.
 
 Some orders also had missing supplier or warehouse information. These records were kept in the analysis instead of being removed.
 
