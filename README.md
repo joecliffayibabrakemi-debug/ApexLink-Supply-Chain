@@ -1,8 +1,7 @@
 # ApexLink Supply Chain Analysis
 
 An analysis of supplier performance, delivery time, sales, and data quality across ApexLink's supply chain.
-
-**Portfolio project:**  A self-directed supply chain analysis using a fictional dataset to find business insights and make recommendations.
+A self-directed supply chain analysis using a fictional dataset to find business insights and make recommendations.
 
 
 ## Business Problem
