@@ -49,6 +49,9 @@ Main issues found:
 * `Total Sales` was checked against `Quantity × Unit_Price`.
 * Total Sales was created as a DAX measure using `SUMX`.
 
+<img width="1897" height="1407" alt="Cleaned Data" src="https://github.com/user-attachments/assets/76afb04d-2ea1-419a-aa0d-80e1676cfcfa" />
+
+
 ## MySQL Analysis
 
 MySQL was used to check the data and calculate the main figures before rebuilding them in Power BI.
@@ -61,6 +64,9 @@ The SQL work included:
 * Delivery performance
 * Supplier and product rankings
 * SQL views for delivered orders, late deliveries, and supplier sales
+
+<img width="1919" height="935" alt="SQL" src="https://github.com/user-attachments/assets/38aa221b-3e9b-43e8-92d1-a742121d662e" />
+
 
 ## Power BI Dashboard
 
@@ -75,8 +81,6 @@ An interactive Power BI dashboard was built to show sales, supplier performance,
 ## Excel Dashboard
 <img width="1758" height="832" alt="Screenshot 2026-09-14 131308" src="https://github.com/user-attachments/assets/9cb09c6d-df02-4375-8503-d21362679c46" />
 
-## MySQL Data Retrieving
-<img width="1920" height="1021" alt="Screenshot 2026-09-14 152433" src="https://github.com/user-attachments/assets/b03b6eb8-84c0-4a01-99f9-c365b22c85d1" />
 
 
 
